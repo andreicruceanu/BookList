@@ -13,12 +13,12 @@ class UI {
     static displayBooks() {
         const books = [
             {
-                title : "O viata minunata",
+                title : "My book",
                 author : "Mihai Eminescu", 
                 number : '120'
             } , 
             {
-                title : "Alice in tara minunilor",
+                title : "My book",
                 author : "Cruceanu Andrei", 
                 number : '70'
             }
